@@ -14,7 +14,7 @@
   [代码](ObjectOriented1/src/ATM.java)
 
 ## 4.面向对象之继承
-  [笔记](/markdowns_java/四、面向对象2/1Java面向对象2.md)
+  [笔记](/markdowns_java/四、面向对象2/1面向对象2.md)
   [代码](ObjectOriented2\src\AnimalProj\animal\Animal.java)
 
 ## 5.面向对象之多态
