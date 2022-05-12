@@ -14,11 +14,11 @@
   [代码](ObjectOriented1/src/ATM.java)
 
 ## 4.面向对象之继承
-  [笔记](/markdowns_java/四、面向对象2/1Java面向对象1.md)
+  [笔记](/markdowns_java/四、面向对象2/1Java面向对象2.md)
   [代码](ObjectOriented2\src\AnimalProj\animal\Animal.java)
 
 ## 5.面向对象之多态
-  [笔记](/markdowns_java/五、面向对象1/1多态.md)
+  [笔记](/markdowns_java/五、面向对象3/1多态.md)
   [代码](ObjectOriented3\src\com\flowerchar\animal\Animal.java)
 
 ## 6.工具类1
@@ -26,7 +26,7 @@
   [代码](Tools1\src\jihe\jiheTest\Cat.java)
 
 ## 7.工具类2
-  [笔记](/markdowns_java/七、常用工具类2/2-1集合排序)
+  [笔记](/markdowns_java/七、常用工具类2/2-1集合排序.md)
   [代码](Tools2\src\genetic\Book.java)
 
 ## 8.其他知识点
