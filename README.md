@@ -2,33 +2,33 @@
 该仓库是用IDEA总结的一套Java语言复习资料
 ------
 ## 1.Java基础语法
-  [笔记](/markdowns/一、C语言快速入门.md)
-  [代码](DataType/01data_type.c)
+  [笔记](/markdowns_java/一、语法入门/1Java初识.md)
+  [代码](ArrayAndMethod/src/Array/ArrayDemo.java)
 
 ## 2.数组与方法
-  [笔记](/markdowns/二、函数与程序结构.md)
-  [代码](Base/01-function_basics.c)
+  [笔记](/markdowns/二、数组方法/1数组.md)
+  [代码](BasicGrammer/src/ConstantAndVariable/CharDemo.java)
 
 ## 3.面向对象之封装
-  [笔记](/markdowns/三、预处理与宏.md)
-  [代码](/macro/01file_include.c)
+  [笔记](/markdowns/三、面向对象1/1Java面向对象.md)
+  [代码](ObjectOriented1/src/ATM.java)
 
 ## 4.面向对象之继承
-  [笔记](/markdowns/四、数组.md)
-  [代码](/Array/01array_basics.c)
+  [笔记](/markdowns/四、面向对象2/1Java面向对象1.md)
+  [代码](ObjectOriented2\src\AnimalProj\animal\Animal.java)
 
 ## 5.面向对象之多态
-  [笔记](/markdowns/五、指针.md)
-  [代码](Pointer/01pointer_basics.c)
+  [笔记](/markdowns/五、面向对象1/1多态.md)
+  [代码](ObjectOriented3\src\com\flowerchar\animal\Animal.java)
 
 ## 6.工具类1
-  [笔记](/markdowns/六、复杂数据类型.md)
-  [代码](/ComplexDataType/01struct.c)
+  [笔记](/markdowns/六、常用工具类1/1异常.md)
+  [代码](Tools1\src\jihe\jiheTest\Cat.java)
 
 ## 7.工具类2
-  [笔记](/markdowns/七、字符串.md)
-  [代码](/String/01charactor_type.c)
+  [笔记](/markdowns/七、常用工具类2/2-1集合排序)
+  [代码](Tools2\src\genetic\Book.java)
 
 ## 8.其他知识点
-  [笔记](/markdowns/八、时间.md)
-  [代码](Time/01basics_time.c)
+  [笔记](/markdowns/八、其他技术点/Lambda表达式.md)
+  [代码](OtherTips\src\lambda\step1\LambdaSample.java)
