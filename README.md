@@ -30,5 +30,5 @@
   [代码](Tools2\src\genetic\Book.java)
 
 ## 8.其他知识点
-  [笔记](/markdowns_java/八、其他技术点/Lambda表达式.md)
+  [笔记](/markdowns_java/八、其他知识点/Lambda表达式.md)
   [代码](OtherTips/src/lambda/step1/LambdaSample.java)
