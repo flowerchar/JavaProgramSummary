@@ -1,4 +1,4 @@
-# CProgramSummary
+# JavaProgramSummary
 该仓库是用IDEA总结的一套Java语言复习资料
 ------
 ## 1.Java基础语法
